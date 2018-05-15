@@ -20,7 +20,7 @@ by [Nouriel Roubini](https://twitter.com/Nouriel), [David Gerard](https://twitte
 - [Payments, Payments, Payments](index.md#payments-payments-payments)
 - [Crypto-Utopia - The Future of Money](index.md#crypto-utopia---the-future-of-money)
 - [Crypto-Utopia - The End Of (Credit) Bubbles](index.md#crypto-utopia---the-end-of-credit-bubbles)
-- [Drug Trafficking, Ebezzlement, Money Laundering - Business As Usual](index.md#drug-trafficking-ebezzlement-money-laundering---business-as-usual)
+- [Drug Trafficking, Embezzlement, Money Laundering - Business As Usual](index.md#drug-trafficking-embezzlement-money-laundering---business-as-usual)
 - [What's a Database?](index.md#whats-a-database)
 - [Lightning Network - The Future of Bitcoin Payments](index.md#lightning-network---the-future-of-bitcoin-payments)
 
