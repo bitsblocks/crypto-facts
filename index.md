@@ -104,7 +104,6 @@ Bill Gates says he would bet against bitcoin if he could as it is a "greater foo
 
 ## Ethereum - The Decentralized Future of Apps?
 
-
 "All of the top decentralized apps are still very much about speculation of value. Decentralized exchanges, casino games, pyramid schemes... are all around speculation". No useful decentralized app and the industry doesn't even 
 clean up criminal pyramid schemes. Shame on Ethereum!
 -- [6 May 2018](https://twitter.com/Nouriel/status/993127057151246336)
@@ -124,7 +123,35 @@ clean up criminal pyramid schemes. Shame on Ethereum!
 > and until bitcoin, didn't seam possible.
 > They can't all be like gemini which just started trading zcash.
 > Momentum is building, get on board or get out of the way.
+
+
+
+## Centralized Mining - All Your Free Lottery Money are Belong to Us
+
+Proof of Work leads to miners' concentration whether it is ZCash or Bitcoin (BTC) or Ethereum (ETH). 
+The move of some cryptocurrencies to Proof of Stake will make that concentration risk even worse. 
+One miner is already controlling 40% of ETH mining. 
+And that oligopoly power will get worse with Proof of Stake.
+-- [15 May 2018](https://twitter.com/davidgerard/status/996338020478578688)
+
+> Facts Please comments:
 >
+> Ethereum (ETH) is pretty centralised in development and administration too. 
+> I think Proof of Stake will work best as acknowledging out loud that a stable, 
+> centrally managed platform is the best thing for its market, even if that's basically ICO scammers
+
+
+<!--
+> Worst "Proof of Work": ZCash is 97.82% mined by ONE miner investoon.com/charts/mining/zec
+> like, why are you even bothering with the bit where you literally waste electricity 
+> running a crypto lottery. How is this not central issuance. "Proof of Work" is brain worms.
+>
+> My previous tweet on ZCash mining being 97.2% one pool appears wrong - my apologies,
+> and thanks to @str4d: apparently the good site is explorer.zcha.in/statistics/miners. 
+> It's still monopolised, but not quite so ludicrously so. Below is the 1 week chart.
+-->
+
+
 
 
 
