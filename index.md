@@ -298,7 +298,7 @@ Crypto can't do that.
 
 
 
-## Drug Trafficking, Ebezzlement, Money Laundering - Business As Usual
+## Drug Trafficking, Embezzlement, Money Laundering - Business As Usual
 
 Regulators will soon crack down on use of cryptocurrencies in illegal and criminal activities. 
 AML/KYC and securities laws will be enforced. As US Treasury Secretary Mnuchin recently said: We can't allow cryptocurrencies to become the next Swiss bank account.
