@@ -3,7 +3,7 @@ title: Crypto Facts
 ---
 
 
-Nouriel Roubini ([@Nouriel](https://twitter.com/Nouriel)) - Professor at Stern School, NYU, Chairman of Roubini Macro Associates and Co-Founder of Rosa & Roubini, Author of Crisis Economics
+Nouriel Roubini ([@Nouriel](https://twitter.com/Nouriel)) - Professor at Stern School, New York University (NYU), Chairman of Roubini Macro Associates and Co-Founder of Rosa & Roubini, Author of Crisis Economics
  
 
 
