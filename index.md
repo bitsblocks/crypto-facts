@@ -9,11 +9,11 @@ Nouriel Roubini ([@Nouriel](https://twitter.com/Nouriel)) - Professor at Stern S
 
 ## Pump and Dump, Wash Trades, Spoofing - Illegal & Criminal Crypto Price Manipulations
 
-Crypto eco-system includes thousands of chat rooms where cryptocrazies scheme daily to manipulate crypto prices: pump and dump; wash trades; spoofing; etc. All practices that are officially ILLEGAL/CRIMINAL. Mother Of All Scams.  So why is SEC asleep at the wheel & does nothing?
+Crypto eco-system includes thousands of chat rooms where cryptocrazies scheme daily to manipulate crypto prices: pump and dump; wash trades; spoofing; etc. All practices that are officially ILLEGAL/CRIMINAL. Mother of all scams.  So why is SEC asleep at the wheel and does nothing?
 -- [5 Feb 2018](https://twitter.com/Nouriel/status/960549656584433664)
 
 
-Another Whalepool recording scheming manipulation of crypto-currencies. A trader admitted personally to me: "it is not "illegal" to front run and pump and dump as these are not "securities" & thus not subject to securities laws". What a sleazy chutzpah!
+Another whalepool recording scheming manipulation of crypto-currencies. A trader admitted personally to me: "it is not "illegal" to front run and pump and dump as these are not "securities" and thus not subject to securities laws". What a sleazy chutzpah!
 -- [5 May 2018](https://twitter.com/Nouriel/status/993015916781686784)
 
 
@@ -53,7 +53,7 @@ Decentralization is crypto-FUDGE as exchanges, miners and developers are ALL bec
 > This is going to be painful!
 
 
-Efficient, low cost, fair, clean crypto-trading is crypto-FUDGE. Rather manipulation, wash trading , spoofing, pump and dump schemes, suckering of the BagHODLers by the crypto-Whales are the constant reality of daily crypto-trading. Stop the crypto-FUDGE!
+Efficient, low cost, fair, clean crypto-trading is crypto-FUDGE. Rather manipulation, wash trading , spoofing, pump and dump schemes, suckering of the bagHODLers by the crypto-Whales are the constant reality of daily crypto-trading. Stop the crypto-FUDGE!
 -- [6 May 2018](https://twitter.com/Nouriel/status/993161333745987584)
 
 
@@ -66,7 +66,7 @@ When they use the term FUD to shut you up as they have no real arguments against
 -- [10 May 2018](https://twitter.com/Nouriel/status/994737269239156736)
 
 
-> Facts Please write:
+> Facts Please writes:
 >
 > "Stop the FUD" used to mean:
 >
