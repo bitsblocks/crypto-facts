@@ -3,9 +3,8 @@ title: Crypto Facts
 ---
 
 
-Nouriel Roubini - Professor at Stern School, NYU, Chairman of Roubini Macro Associates and Co-Founder of Rosa & Roubini, Author of Crisis Economics
+Nouriel Roubini ([@Nouriel](https://twitter.com/Nouriel)) - Professor at Stern School, NYU, Chairman of Roubini Macro Associates and Co-Founder of Rosa & Roubini, Author of Crisis Economics
  
-
 
 
 ## Pump and Dump, Wash Trades, Spoofing - Illegal & Criminal Crypto Price Manipulations
@@ -294,14 +293,13 @@ AML/KYC and securities laws will be enforced. As US Treasury Secretary Mnuchin r
 
 ---
 
-David Gerard:
+David Gerard ([@DavidGerard](https://twitter.com/davidgerard)) - Author of "Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts".  Music blog: rocknerd.co.uk 
 
 
 
 ## What's a Database?
 
 "Not surprisingly, the most enthusiastic bitcoin and blockchain proponents are the ones who understand neither databases nor economics."
-
 -- [11 May 2018](https://twitter.com/davidgerard/status/995039809415581696)
 
 
@@ -309,7 +307,6 @@ David Gerard:
 ## Lightning Network - The Future of Bitcoin Payments
 
 The name of the routing problem the Lightning Network has to solve: the Canadian Traveller Problem, which is PSPACE-complete.
-
 -- [13 May 2018](https://twitter.com/davidgerard/status/995679474711715840)
 
 > Facts Please comments:
@@ -321,4 +318,3 @@ The name of the routing problem the Lightning Network has to solve: the Canadian
 > and the problem will solve itself once there are enough people using the network.
 > Like people will flock to use a network that randomly fails payments.
 
--->
