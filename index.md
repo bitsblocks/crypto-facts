@@ -11,7 +11,7 @@ Chairman of Roubini Macro Associates and Co-Founder of Rosa & Roubini, Author of
 
 ## Pump and Dump, Wash Trades, Spoofing - Illegal & Criminal Crypto Price Manipulations
 
-Crypto eco-system includes thousands of chat rooms where cryptocrazies scheme daily to manipulate crypto prices: pump and dump; wash trades; spoofing; etc. All practices that are officially ILLEGAL/CRIMINAL. Mother of all scams.  So why is SEC asleep at the wheel and does nothing?
+Crypto eco-system includes thousands of chat rooms where cryptocrazies scheme daily to manipulate crypto prices: pump and dump; wash trades; spoofing; etc. All practices that are officially ILLEGAL/CRIMINAL. Mother of all scams.  So why is SEC (Securities and Exchange Commission) asleep at the wheel and does nothing?
 -- [5 Feb 2018](https://twitter.com/Nouriel/status/960549656584433664)
 
 
@@ -86,7 +86,7 @@ There are about 1 million holders of Bitcoin; 47 individuals hold about 30%, ano
 -- [11 May 2018](https://twitter.com/Nouriel/status/995004255114326017)
 
 The distribution of Bitcoin holdings looks much like the distribution of wealth in North Korea
-and makes the China's and even the US' wealth distribution look like that of a workers' paradise
+and makes the China's and even the United States' wealth distribution look like that of a workers' paradise
 Bitcoin. Gini Coefficient: 0.88
 
 How Bitcoin is like North Korea
@@ -114,7 +114,7 @@ clean up criminal pyramid schemes. Shame on Ethereum!
 
 50% of decentralized apps are decentralized exchanges (DEXs)
 that have no liquidity and transact useless tokens,
-25% are silly games such as cryptokitties and 20% are Ponzi pyramid schemes. So get the real facts on the junky "use cases" of Ethereum and stop living in your bubble. Can't bullshit me as I know my facts.
+25% are silly games such as cryptokitties and 20% are ponzi pyramid schemes. So get the real facts on the junky "use cases" of Ethereum and stop living in your bubble. Can't bullshit me as I know my facts.
 -- [13 May 2018](https://twitter.com/Nouriel/status/995695729292148736)
 
 
@@ -135,17 +135,18 @@ that have no liquidity and transact useless tokens,
 
 ## Centralized Mining - All Your Free Lottery Money are Belong to Us
 
-Proof of work leads to miners' concentration whether it is ZCash or Bitcoin (BTC) or Ethereum (ETH).
+Proof of work leads to miners' concentration whether it is ZCash or Bitcoin or Ethereum.
 The move of some cryptocurrencies to proof of stake will make that concentration risk even worse.
-One miner is already controlling 40% of Ethereum (ETH) mining.
+One miner is already controlling 40% of Ethereum mining.
 And that oligopoly power will get worse with proof of stake.
 -- [15 May 2018](https://twitter.com/davidgerard/status/996338020478578688)
 
 > Facts Please comments:
 >
-> Ethereum (ETH) is pretty centralized in development and administration too.
+> Ethereum is pretty centralized in development and administration too.
 > I think proof of stake will work best as acknowledging out loud that a stable,
-> centrally managed platform is the best thing for its market, even if that's basically ICO scammers
+> centrally managed platform is the best thing for its market,
+> even if that's basically initial coin offering (ICO) scammers
 
 
 <!--
@@ -165,7 +166,7 @@ And that oligopoly power will get worse with proof of stake.
 ## Initial Coin Offerings (ICOs) - The Mother of All Scams
 
 
-Call ICOs for their true name: Initial Coin Scams (ICSs).
+Call Initial Coin Offerings (ICOs) for their true name: Initial Coin Scams (ICSs).
 81% of them are scams to begin with. Another 11% are dead or failed.
 So barely 8% trade on an exchange and most of those are non-compliant securities skirting all securities laws
 -- [11 May 2018](https://twitter.com/Nouriel/status/994882522885623809)
@@ -285,9 +286,9 @@ There were huge asset and credit bubbles well before fiat currencies and central
 > Austrian Maximalist comments:
 >
 > Cryptocurrencies reduce the intensity of credit-fueled bubbles because
-> it becomes impossible to loan cryptocurrencies you don't possess other than in IOU form,
+> it becomes impossible to loan cryptocurrencies you don't possess other than in IOU (I Owe You) form,
 > which is how credit-fuelled bubbles are precipitated:
-> by the bank creating deposits in your account to spend for an IOU.
+> by the bank creating deposits in your account to spend for an IOU (I Owe You).
 
 
 Actually in a crypto world economic/financial disasters will be more virulent/frequent than
@@ -311,7 +312,7 @@ Crypto can't do that.
 ## Drug Trafficking, Embezzlement, Money Laundering - Business As Usual
 
 Regulators will soon crack down on use of cryptocurrencies in illegal and criminal activities.
-AML/KYC and securities laws will be enforced. As US Treasury Secretary Mnuchin recently said: We can't allow cryptocurrencies to become the next Swiss bank account.
+AML (Anti Money Laundering)/KYC (Know Your Customer) and securities laws will be enforced. As US Treasury Secretary Mnuchin recently said: We can't allow cryptocurrencies to become the next Swiss bank account.
 -- [13 May 2018](https://twitter.com/Nouriel/status/995717505942409216)
 
 > Austrian Maximalist (I) comments:
@@ -328,9 +329,14 @@ AML/KYC and securities laws will be enforced. As US Treasury Secretary Mnuchin r
 
 
 
+
+
 ---
 
-David Gerard ([@DavidGerard](https://twitter.com/davidgerard)) - Author of "Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts".  Music blog: rocknerd.co.uk
+David Gerard ([@DavidGerard](https://twitter.com/davidgerard)) - Author of "Attack of the 50 Foot Blockchain: Bitcoin, Blockchain, Ethereum & Smart Contracts"
+and a Unix System Admin by day.
+He has blogged about music at Rocknerd.co.uk since 2001 and
+is a volunteer spokesman for Wikipedia, and is on the board of the RationalMedia Foundation, host of skeptical wiki RationalWiki.org.
 
 
 
