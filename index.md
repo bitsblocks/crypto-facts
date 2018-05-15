@@ -213,7 +213,7 @@ can cite for a decentralized app. With success like this...
 ## Payments, Payments, Payments
 
 Two currency conversion and THREE costly transaction costs. Given volatility no one truly using crypto for transaction purposes would hold it; they would convert it back into fiat to avoid volatility and market risk.
-- [7 May 2018](https://twitter.com/Nouriel/status/993550350031306752)
+-- [7 May 2018](https://twitter.com/Nouriel/status/993550350031306752)
 
 > Facts Please comments:
 >
@@ -226,7 +226,7 @@ Two currency conversion and THREE costly transaction costs. Given volatility no 
 
 
 So called Crypto-"currencies" aren't a means of payment (way too costly with 3 transaction costs), aren't a unit of account and aren't a stable or safe or secure store of value. Thus, they are NOT currencies. They are the mother of all rip-offs!
-- [7 May 2018](https://twitter.com/Nouriel/status/993558102711517184)
+-- [7 May 2018](https://twitter.com/Nouriel/status/993558102711517184)
 
 > Facts Please comments:
 >
