@@ -101,6 +101,20 @@ How Bitcoin is like North Korea
 
 
 
+<!--
+## Bitcoin - Greater Fools
+
+Bill Gates says he would bet against bitcoin if he could as it is a "greater fool" investment.
+
+"As an asset class, you're not producing anything and so you shouldn't expect it to go up. It's kind of a pure 'greater fool theory' type of investment".
+-- [7 May 2018](https://twitter.com/Nouriel/status/993571725236359169)
+-->
+
+
+
+
+## Are We Centralized Yet? Cryptoland a Plutocracy? 
+
 > Facts Please writes:
 >
 > The big lie of crypto is that things are decentralized.
@@ -115,19 +129,6 @@ Worse, like Trump, it is a plutocracy disguised in populist clothes (pretending 
 So it is pluto-populism run by a bunch of pluto-populists enriching themselves by scamming clueless investors.
 -- [16 May 2018](https://twitter.com/Nouriel/status/996838121965842433)
 
-
-
-
-
-
-<!--
-## Bitcoin - Greater Fools
-
-Bill Gates says he would bet against bitcoin if he could as it is a "greater fool" investment.
-
-"As an asset class, you're not producing anything and so you shouldn't expect it to go up. It's kind of a pure 'greater fool theory' type of investment".
--- [7 May 2018](https://twitter.com/Nouriel/status/993571725236359169)
--->
 
 
 
@@ -230,7 +231,8 @@ What a waste of energy.
 
 
 > Facts Please writes:
->  The [CryptoCandle](https://thecryptocandle.com) - Burn it down because the markets's on fire
+>
+> The [CryptoCandle](https://thecryptocandle.com) - Burn it down because the markets's on fire
 
 The most useful "use case" for Bitcoin looks like the CryptoCandle.
 So it is worth burning more energy than the entire country of Iceland to lit a sandal-wood candle and earn a 0.00001% of one Bitcoin. With "use cases" like this who needs enemies...?
