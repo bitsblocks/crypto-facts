@@ -230,7 +230,6 @@ Entire monster-big data centers repeating 100 000 times stupid games just to val
 What a waste of energy.
 -- [17 May 2018](https://twitter.com/Nouriel/status/997126267672539138)
 
----
 
 > Facts Please writes:
 >
@@ -386,12 +385,6 @@ So we are back to the Stone Age as far as storing wealth is concerned. "Brillian
 
 ## Free Market Cryptoland Utopia - Charlatans, Con Artists, Scammers, Pluto-Populists, ...
 
-It is rather a dislike of charlatans, con artists, scammers, trade manipulators,
-carnival barkers, swindlers, crypto-zealots, pluto-populists, i.e. self-serving plutocrats pretending to be populists who care about world poverty and financial inclusion.
--- [17 May 2018](https://twitter.com/Nouriel/status/997247144913334272)
-
----
-
 > Facts Please writes:
 >
 > Rough survey from blockchain and cryptocurrency conferences in New York City
@@ -407,6 +400,11 @@ carnival barkers, swindlers, crypto-zealots, pluto-populists, i.e. self-serving 
 It is like the delusional La La Land where everyone is above average.
 While they are junky dwarfs.
 -- [16 May 2018](https://twitter.com/Nouriel/status/996863892595838976)
+
+
+It is rather a dislike of charlatans, con artists, scammers, trade manipulators,
+carnival barkers, swindlers, crypto-zealots, pluto-populists, i.e. self-serving plutocrats pretending to be populists who care about world poverty and financial inclusion.
+-- [17 May 2018](https://twitter.com/Nouriel/status/997247144913334272)
 
 
 
@@ -429,23 +427,6 @@ I trust reputable centralized institutions with a track record - central banks, 
 > with people saying shopping on the internet would never work.
 > How has that worked out?
 
-
-
-
-
-
-## Crypto-Utopia - The Future of Money
-
-
-I accept the correction. So the Flintstones had a more developed monetary system with a real money than the stone age barter system recommended by the crypto-supporters of a world of tokenization. So the Flintstones are financially more advanced and sophisticated than the cryptos!
--- [14 May 2018](https://twitter.com/Nouriel/status/995947543694540801)
-
-> Austrian Maximalist comments:
->
-> The market is discovering which tokens are useful and which ones are not.
-> Probably 99% tokens are useless, but is not yours or anyone's particular role
-> to decide on that.  It is the markets, the users, who are going to decide
-> that and no one has the right to interfere on that.
 
 
 
@@ -488,6 +469,9 @@ Crypto can't do that.
 
 
 
+
+## Crypto-Utopia - The Future of Money
+
 Crypto-zealots know NOTHING about economics, money, central banks, banks, finance, economic history, financial crises, asset bubbles. But like all religious fanatics they claim to know it all better than scholars who studied this stuff for decades. Crypto-voodoo trumps Science
 -- [16 May 2018](https://twitter.com/Nouriel/status/996877240246919173)
 
@@ -503,9 +487,7 @@ Crypto-zealots know NOTHING about economics, money, central banks, banks, financ
 > 1 BTC today equal 1 BTC a year from now.
 > Correct me if I'm wrong, but 1 USD today won't equal 1 USD a year from now.
 
-
 ---
-
 
 > Austrian Maximalist writes:
 >
@@ -523,6 +505,17 @@ Most of your arguments ASSUME that a crypto financial system will be safer, more
 Those are ALL theoretical assumptions with NO empirical basis. Talk is cheap.
 -- [16 May 2018](https://twitter.com/Nouriel/status/996896194650624002)
 
+
+
+I accept the correction. So the Flintstones had a more developed monetary system with a real money than the stone age barter system recommended by the crypto-supporters of a world of tokenization. So the Flintstones are financially more advanced and sophisticated than the cryptos!
+-- [14 May 2018](https://twitter.com/Nouriel/status/995947543694540801)
+
+> Austrian Maximalist comments:
+>
+> The market is discovering which tokens are useful and which ones are not.
+> Probably 99% tokens are useless, but is not yours or anyone's particular role
+> to decide on that.  It is the markets, the users, who are going to decide
+> that and no one has the right to interfere on that.
 
 
 Indeed the current financial system is super-sophisticated and safe for bank customers while crypto-systems are like going back to Stone Age of Barter (tokenization of all goods) and the security of Middle Age coin wallets. Indeed the retrograde Crypto-Barbarians are at the gate
@@ -550,6 +543,8 @@ bubbles/financial crises were more severe before fiat money and central banks.
 > Oh yeah printing money out of thin air just to loan it out to earn interest on
 > it. Let's give it a fancy name like quantitative easing. That’ll make everyone
 > whole.
+
+
 
 
 
