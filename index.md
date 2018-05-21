@@ -160,6 +160,17 @@ that have no liquidity and transact useless tokens,
 
 
 
+And development is centralized too. Vitalik Buterin is "dictator for life" .
+And code ISN'T law as The Distributed Autonomous Organisation (DAO) showed:
+developers/dictators are police, prosecutors and judges at the same time. So they create their totally arbitrary law based on their whims
+-- [16 May 2018](https://twitter.com/Nouriel/status/996812914253287431)
+
+
+
+
+
+
+
 ## Centralized Mining - All Your Free Lottery Money are Belong to Us
 
 The top bitcoin (BTC) miner controls 25% of mining capacity.
@@ -203,18 +214,20 @@ And that oligopoly power will get worse with proof of stake.
 
 > Facts Please writes:
 >
-> New research suggests that Bitcoin will account for 0.5 percent of the world’s
+> New research suggests that Bitcoin will account for 0.5 percent of the world's
 > electricity demand by the end of this year.
 > It doesn't sound like much, but that is roughly equivalent
 > to the energy needs of Austria, a country of nearly nine million people.
 
-What a total waste of energy that is awful and disastrous for the environment.  
+What a total waste of energy that is awful and disastrous for the environment.
 And that is Bitcoin alone...add another 1600+ coins scams to the energy waste...
 -- [17 May 2018](https://twitter.com/Nouriel/status/997078688570269696)
 
 The giant sucking hole of energy of crypto is getting wider by the day...an environmental disaster.
-Entire monster-big data centers repeating 100 000 times stupid games just to validate purchases of CryptoKitties. What a waste of energy
+Entire monster-big data centers repeating 100 000 times stupid games just to validate purchases of CryptoKitties. 
+What a waste of energy.
 -- [17 May 2018](https://twitter.com/Nouriel/status/997126267672539138)
+
 
 > Facts Please writes:
 >  The [CryptoCandle](https://thecryptocandle.com) - Burn it down because the markets's on fire
