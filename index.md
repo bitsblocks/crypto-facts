@@ -100,6 +100,26 @@ How Bitcoin is like North Korea
 -- [11 May 2018](https://twitter.com/Nouriel/status/995003045455986688)
 
 
+
+> Facts Please writes:
+>
+> The big lie of crypto is that things are decentralized.
+
+It is indeed a big lie.
+Crypto is increasingly massively centralized and plutocratic: miners oligopoly, exchanges concentration, ownership of crypto-assets more unequal than North Korea, developers beings designers, cops, prosecutors and judges and pretending that code is law.
+-- [17 May 2018](https://twitter.com/Nouriel/status/997079442701869057)
+
+
+Indeed Cryptoland is a whale-dominated plutocracy.
+Worse, like Trump, it is a plutocracy disguised in populist clothes (pretending to care about the poor and dispossed).
+So it is pluto-populism run by a bunch of pluto-populists enriching themselves by scamming clueless investors.
+-- [16 May 2018](https://twitter.com/Nouriel/status/996838121965842433)
+
+
+
+
+
+
 <!--
 ## Bitcoin - Greater Fools
 
@@ -142,6 +162,17 @@ that have no liquidity and transact useless tokens,
 
 ## Centralized Mining - All Your Free Lottery Money are Belong to Us
 
+The top bitcoin (BTC) miner controls 25% of mining capacity.
+Top 3 miners control 55%. Top 6 control 74%. So bitcoin (BTC) is NOT decentralized. It is HIGHLY centralized.
+-- [16 May 2018](https://twitter.com/Nouriel/status/996822516302741504)
+
+> Austrian Maximalist comments:
+>
+> A few countries produce 99% of gold, does that mean
+> that they can change gold? Or its supply? Or control who owns it?
+
+
+
 Proof of work leads to miners' concentration whether it is ZCash or Bitcoin or Ethereum.
 The move of some cryptocurrencies to proof of stake will make that concentration risk even worse.
 One miner is already controlling 40% of Ethereum mining.
@@ -165,6 +196,34 @@ And that oligopoly power will get worse with proof of stake.
 > and thanks to @str4d: apparently the good site is explorer.zcha.in/statistics/miners.
 > It's still monopolised, but not quite so ludicrously so. Below is the 1 week chart.
 -->
+
+
+
+## Proof of Waste - Environmental Energy Disaster
+
+> Facts Please writes:
+>
+> New research suggests that Bitcoin will account for 0.5 percent of the world’s
+> electricity demand by the end of this year.
+> It doesn't sound like much, but that is roughly equivalent
+> to the energy needs of Austria, a country of nearly nine million people.
+
+What a total waste of energy that is awful and disastrous for the environment.  
+And that is Bitcoin alone...add another 1600+ coins scams to the energy waste...
+-- [17 May 2018](https://twitter.com/Nouriel/status/997078688570269696)
+
+The giant sucking hole of energy of crypto is getting wider by the day...an environmental disaster.
+Entire monster-big data centers repeating 100 000 times stupid games just to validate purchases of CryptoKitties. What a waste of energy
+-- [17 May 2018](https://twitter.com/Nouriel/status/997126267672539138)
+
+> Facts Please writes:
+>  The [CryptoCandle](https://thecryptocandle.com) - Burn it down because the markets's on fire
+
+The most useful "use case" for Bitcoin looks like the CryptoCandle.
+So it is worth burning more energy than the entire country of Iceland to lit a sandal-wood candle and earn a 0.00001% of one Bitcoin. With "use cases" like this who needs enemies...?
+-- [17 May 2018](https://twitter.com/Nouriel/status/997084053919674368)
+
+
 
 
 
