@@ -211,6 +211,7 @@ And that oligopoly power will get worse with proof of stake.
 
 
 
+
 ## Proof of Waste - Environmental Energy Disaster
 
 > Facts Please writes:
@@ -229,6 +230,7 @@ Entire monster-big data centers repeating 100 000 times stupid games just to val
 What a waste of energy.
 -- [17 May 2018](https://twitter.com/Nouriel/status/997126267672539138)
 
+---
 
 > Facts Please writes:
 >
@@ -238,6 +240,23 @@ The most useful "use case" for Bitcoin looks like the CryptoCandle.
 So it is worth burning more energy than the entire country of Iceland to lit a sandal-wood candle and earn a 0.00001% of one Bitcoin. With "use cases" like this who needs enemies...?
 -- [17 May 2018](https://twitter.com/Nouriel/status/997084053919674368)
 
+
+
+## CryptoKitties - A Decentralized App Success Story?
+
+Apart from being a dumb game CryptoKitties has low and falling transactions.
+Compared to any good video game it has transaction volume that is 0.001% than any game.
+So dumb and failing. And that is the best success story that cryptozealots
+can cite for a decentralized app. With success like this...
+-- [13 May 2018](https://twitter.com/Nouriel/status/995697911932465152)
+
+> Facts Please comments:
+>
+> And who's only value to players was literally a tulip mania,
+> just replacing rare and unique bulbs with rare and unique cats.
+>
+> The cryptocurrency community is intent
+> on speed running 500 years of economic disasters.
 
 
 
@@ -274,6 +293,7 @@ Indeed almost of all tokens are "useless shitcoins" produced to scam clueless in
 
 
 
+
 ## Tokens, Tokens, Tokens - Run Your Own Cartel
 
 Read my [Project Syndicate Op-Ed](https://www.project-syndicate.org/commentary/ico-cryptocurrency-scams-by-nouriel-roubini-2018-05) on why tokens are non-compliant scams
@@ -281,24 +301,6 @@ and why only reason to issue tokens can be to form an illegal cartel to gouge co
 Study your Economics 101 before spewing this silly nonsense on every business
 needing its own currency.
 -- [13 May 2018](https://twitter.com/Nouriel/status/995698573869137920)
-
-
-
-## CryptoKitties - A Decentralized App Success Story?
-
-Apart from being a dumb game CryptoKitties has low and falling transactions.
-Compared to any good video game it has transaction volume that is 0.001% than any game.
-So dumb and failing. And that is the best success story that cryptozealots
-can cite for a decentralized app. With success like this...
--- [13 May 2018](https://twitter.com/Nouriel/status/995697911932465152)
-
-> Facts Please comments:
->
-> And who's only value to players was literally a tulip mania,
-> just replacing rare and unique bulbs with rare and unique cats.
->
-> The cryptocurrency community is intent
-> on speed running 500 years of economic disasters.
 
 
 
@@ -358,6 +360,7 @@ Brilliant idea: tell every grandmother/grandfather to follow that "simple" six-s
 > to achieve monetary sovereignty. Well worth the effort.
 
 
+---
 
 > Facts Please writes:
 >
@@ -387,6 +390,7 @@ It is rather a dislike of charlatans, con artists, scammers, trade manipulators,
 carnival barkers, swindlers, crypto-zealots, pluto-populists, i.e. self-serving plutocrats pretending to be populists who care about world poverty and financial inclusion.
 -- [17 May 2018](https://twitter.com/Nouriel/status/997247144913334272)
 
+---
 
 > Facts Please writes:
 >
@@ -403,8 +407,6 @@ carnival barkers, swindlers, crypto-zealots, pluto-populists, i.e. self-serving 
 It is like the delusional La La Land where everyone is above average.
 While they are junky dwarfs.
 -- [16 May 2018](https://twitter.com/Nouriel/status/996863892595838976)
-
-
 
 
 
@@ -467,6 +469,7 @@ There were huge asset and credit bubbles well before fiat currencies and central
 > by the bank creating deposits in your account to spend for an IOU (I Owe You).
 
 
+
 Actually in a crypto world economic/financial disasters will be more virulent/frequent than
 today as, before fiat money and central banks, bubbles were bigger and more disastrous.
 Central banks were created to avoid runs via lender of last resort support.
@@ -501,7 +504,7 @@ Crypto-zealots know NOTHING about economics, money, central banks, banks, financ
 > Correct me if I'm wrong, but 1 USD today won't equal 1 USD a year from now.
 
 
-
+---
 
 
 > Austrian Maximalist writes:
@@ -570,9 +573,7 @@ AML (Anti Money Laundering)/KYC (Know Your Customer) and securities laws will be
 > And it would be even harder to stop Bitcoin.
 
 
-
-
-
+---
 
 ---
 
