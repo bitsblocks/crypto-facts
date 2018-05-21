@@ -337,8 +337,101 @@ So called crypto-"currencies" aren't a means of payment (way too costly with thr
 
 
 
+## Crypto (Offline) Security - Cold Paper Storage in Underground Vaults / Bunkers
+
+> Austrian Maximalist writes:
+>
+> Why not put a hardware wallet in a bank vault and hide the recovery sheet in a
+> secure second spot.
+> Also use an additional randomized word for a bulletproof seed.
+> Peeps with more wealth use bunkers, works fine.
+
+Brilliant idea: tell every grandmother/grandfather to follow that "simple" six-steps security esoteric system for your crypto-wallet/key: or otherwise build a nuclear bomb proof bunker to store their crypto-wealth...
+-- [16 May 2018](https://twitter.com/Nouriel/status/996890678033637378)
+
+
+> Austrian Maximalist comments:
+>
+> "Esoteric system"? All it takes is two hours of your life
+> to achieve monetary sovereignty. Well worth the effort.
+
+
+
+> Facts Please writes:
+>
+> The wealthy are hoarding $10 billion of Bitcoin in underground vaults on five continents.
+
+So the high tech crypto innovation is to store your crypto-assets
+in underground vaults as the whole crypto-system is NOT secure.
+So we are back to the Stone Age as far as storing wealth is concerned. "Brilliant" crypto-revolution... -- [21 May 2018](https://twitter.com/Nouriel/status/998504332575178752)
+
+> Austrian Maximalist (I) comments:
+>
+> Note that's one solution among many. Still provides better protection
+> against fiat inflation.
+>
+> Austrian Maximalist (II) comments:
+>
+> Custody of Bitcoin private keys is still risky and expensive.
+> This is the one and only of your crypto criticism that holds up.
+> But we are still at the early stages.
+
+
+
+
+## Free Market Cryptoland Utopia - Charlatans, Con Artists, Scammers, Pluto-Populists, ...
+
+It is rather a dislike of charlatans, con artists, scammers, trade manipulators,
+carnival barkers, swindlers, crypto-zealots, pluto-populists, i.e. self-serving plutocrats pretending to be populists who care about world poverty and financial inclusion.
+-- [17 May 2018](https://twitter.com/Nouriel/status/997247144913334272)
+
+
+> Facts Please writes:
+>
+> Rough survey from blockchain and cryptocurrency conferences in New York City
+> (NYC) this week: Most people agree that a vast majority of the speakers and
+> products on offer are bubble-icious junk.
+> Roughly an equal number of people say that their speaker
+> or product is not junk. Which camp is right?
+>
+> Austrian Maximalist writes:
+>
+> If it's not bitcoin, it's probably junk.
+
+It is like the delusional La La Land where everyone is above average.
+While they are junky dwarfs.
+-- [16 May 2018](https://twitter.com/Nouriel/status/996863892595838976)
+
+
+
+
+
+
+I trust reputable centralized institutions with a track record - central banks, corporations, democratic governments - rather than trustless game-based con artists who pretend to be decentralized but are rather centralized plutocrats in populist clothes, i.e. pluto-populists
+-- [16 May 2018](https://twitter.com/Nouriel/status/996882472829767680)
+
+> Austrian Maximalist (I) comments:
+>
+> You can't stop this revolution. Bitcoin will herald a major overhaul
+> to money and to finance. Nobody can stop this.
+>
+> I trust math over people. I trust a trustless system.
+>
+> Austrian Maximalist (II) comments:
+>
+> Wells Fargo, Goldman Sachs, Lehman, Enron, Tyco... all upstanding companies.
+> A decentralized-trustless system couldn't possibly work.
+> I also remember the early internet days
+> with people saying shopping on the internet would never work.
+> How has that worked out?
+
+
+
+
+
 
 ## Crypto-Utopia - The Future of Money
+
 
 I accept the correction. So the Flintstones had a more developed monetary system with a real money than the stone age barter system recommended by the crypto-supporters of a world of tokenization. So the Flintstones are financially more advanced and sophisticated than the cryptos!
 -- [14 May 2018](https://twitter.com/Nouriel/status/995947543694540801)
@@ -352,7 +445,9 @@ I accept the correction. So the Flintstones had a more developed monetary system
 
 
 
+
 ## Crypto-Utopia - The End Of (Credit) Bubbles
+
 
 > Austrian Maximalist writes:
 >
@@ -385,6 +480,73 @@ Crypto can't do that.
 >
 > False. And embarrassing for you to say.
 > It's like you don't know the basics of [Austrian school of] economic history.
+
+
+
+Crypto-zealots know NOTHING about economics, money, central banks, banks, finance, economic history, financial crises, asset bubbles. But like all religious fanatics they claim to know it all better than scholars who studied this stuff for decades. Crypto-voodoo trumps Science
+-- [16 May 2018](https://twitter.com/Nouriel/status/996877240246919173)
+
+> Austrian Maximalist (I) comments:
+>
+> Bitcoin was invented to prove these scholars wrong.
+>
+> You will buy my bitcoin at $400 000.
+>
+>
+> Austrian Maximalist (II) comments:
+>
+> 1 BTC today equal 1 BTC a year from now.
+> Correct me if I'm wrong, but 1 USD today won't equal 1 USD a year from now.
+
+
+
+
+
+> Austrian Maximalist writes:
+>
+> [...]
+> Cryptoeconomics empowers users of money to fork money supply in an equitable manner
+> [...]
+> Cryptocurrency creates (via #cryptoeconomics)
+> private money which the users can understand, with forensic transparency as to
+> its origin, with open invitation to participate in governance or engineering,
+> to help design any aspect of a software money cryptoeconomy
+> [...]
+>
+
+Most of your arguments ASSUME that a crypto financial system will be safer, more reliable, efficient, scalable,  less costly, freer than current financial systems that have evolved over thousands of years.
+Those are ALL theoretical assumptions with NO empirical basis. Talk is cheap.
+-- [16 May 2018](https://twitter.com/Nouriel/status/996896194650624002)
+
+
+
+Indeed the current financial system is super-sophisticated and safe for bank customers while crypto-systems are like going back to Stone Age of Barter (tokenization of all goods) and the security of Middle Age coin wallets. Indeed the retrograde Crypto-Barbarians are at the gate
+-- [16 May 2018](https://twitter.com/Nouriel/status/996878507270696960)
+
+
+
+ATMs have strict limits to how much cash you can take out per day: a few hundreds dollars. Instead someone hacks your private key and ALL of your crypto-wealth is gone for good. And unlike bank accounts there is no trusted bank making you whole if someone hacked your account
+-- [16 May 2018](https://twitter.com/Nouriel/status/996870845053227010)
+
+> Austrian Maximalist comments:
+>
+> In the case of fiat money, we will lose no matter what... quantitative easing
+> (eventually) causes inflation and money is "stolen" from us without we even
+> realizing. Bitcoin, and some cryptos,
+> have capped the max limit algorithmically. Decentralize. Trustless.
+
+
+Banks don't need a bailout to make me whole if my account is hacked. They have their internal funds for all fraud cases. And my deposit insurance, in case of bank insolvency, is paid for by fees paid by banks. And
+bubbles/financial crises were more severe before fiat money and central banks.
+-- [16 May 2018](https://twitter.com/Nouriel/status/996875910358929408)
+
+> Austrian Maximalist comments:
+>
+> Oh yeah printing money out of thin air just to loan it out to earn interest on
+> it. Let's give it a fancy name like quantitative easing. That’ll make everyone
+> whole.
+
+
 
 
 
