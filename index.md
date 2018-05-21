@@ -15,6 +15,14 @@ Crypto eco-system includes thousands of chat rooms where cryptocrazies scheme da
 -- [5 Feb 2018](https://twitter.com/Nouriel/status/960549656584433664)
 
 
+Finally the SEC (Securities and Exchange Commission) is starting to warn investors about Initial Coin Scams...
+that web site was created by the SEC to show investors the obvious signs of such too-good-to-be-true-token-scams.
+
+[Buy SEC tokens! Now!](https://www.howeycoins.com)
+-- [16 May 2018](https://twitter.com/Nouriel/status/996843027846107136)
+
+
+
 Another whalepool recording scheming manipulation of crypto-currencies. A trader admitted personally to me: "it is not "illegal" to front run and pump and dump as these are not "securities" and thus not subject to securities laws". What a sleazy chutzpah!
 -- [5 May 2018](https://twitter.com/Nouriel/status/993015916781686784)
 
