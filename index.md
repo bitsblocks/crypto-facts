@@ -17,7 +17,7 @@ Crypto eco-system includes thousands of chat rooms where cryptocrazies scheme da
 
 Finally the SEC (Securities and Exchange Commission) is starting to warn investors about Initial Coin Scams...
 that web site was created by the SEC to show investors the obvious signs of such too-good-to-be-true-token-scams.
-[Buy SEC tokens! Now!](https://www.howeycoins.com)
+[Buy SEC tokens! Now!](https://www.investor.gov/howeycoins)
 -- [16 May 2018](https://twitter.com/Nouriel/status/996843027846107136)
 
 
