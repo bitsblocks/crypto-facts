@@ -58,7 +58,10 @@ Another whalepool recording scheming manipulation of crypto-currencies. A trader
 >
 > [BitMEX insiders caught in a web of lies](https://medium.com/@mattcollburner/bitmex-insiders-caught-in-a-web-of-lies-6d9b90baa693) -
 > After months of rumours about misconduct behind the scenes, BitMEX founders have finally admitted (well, not quite)
-> to giving unfair trading advantages to insiders, a practice they had previously denied...
+> to giving unfair trading advantages to insiders, a practice they had previously denied.
+> They have also been engaging in unprofitable trading to artificially inflate exchange volumes (aka wash trading), outlined below.
+> To understand how unscrupulous actors try to squeeze every extra buck out of retail customers and fool potential investors
+> in the (unregulated) Wild West of crypto, read on...
 
 As this paper shows wash trading, spoofing, front-running, price manipulating are standard operating practices in crypto-land and in crypto-exchanges. When will regulators wake up and start cracking down on these criminal activities?
 -- [21 Mai 2018](https://twitter.com/Nouriel/status/998681872812081152)
@@ -275,12 +278,12 @@ What a waste of energy.
 > "A single bitcoin transaction is so energy intensive that it could power the average U.S. household for a month."
 > (If there weren't so many smart people saying bitcoin is brilliant, it would sound like the dumbest thing ever)
 >
-> Austrian Maximalist (I) writes:
+> Austrian Maximalist (I) comments:
 >
 > And the daily drive of any of your cars equals the energy consumption of one hundred Peruvian in a month :-).
 >
 >
-> Austrian Maximalist (II) writes:
+> Austrian Maximalist (II) comments:
 >
 > I wonder what these reports will look like once lightning network is at full steam though.
 >
@@ -572,6 +575,26 @@ Crypto-zealots know NOTHING about economics, money, central banks, banks, financ
 >
 > 1 BTC today equal 1 BTC a year from now.
 > Correct me if I'm wrong, but 1 USD today won't equal 1 USD a year from now.
+
+
+Bob Shiller on Crypto: No one can explain how cryptocurrencies work.
+That mystery creates an aura of exclusivity and fills devotees with revolutionary zeal. 
+None of this is new and as with past monetary innovations a compelling story may not be enough.
+-- [21 May 2018](https://twitter.com/Nouriel/status/998670120590471168)
+
+> Facts Please:
+>
+> [The Old Allure of New Money](https://www.project-syndicate.org/commentary/cryptocurrencies-scientific-narrative-by-robert-j--shiller-2018-05) - The cryptocurrency revolution, which started with
+> bitcoin in 2009, claims to be inventing new kinds of money. There are now nearly 2 000
+> cryptocurrencies, and millions of people worldwide are excited by them. What accounts
+> for this enthusiasm, which so far remains undampened by warnings that the revolution
+> is a sham?
+>
+> Austrian Maximalist comments:
+>
+> The ability to create decentralized consensus
+> on the most secure networks in human history isn't new?
+
 
 ---
 
