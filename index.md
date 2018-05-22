@@ -50,9 +50,19 @@ that web site was created by the SEC to show investors the obvious signs of such
 > (Source: [Howey Coins](https://www.howeycoins.com) Initial Coin Offering (ICO) Whitepaper, Investor Red Flags Scam Alert Parody by U.S. SEC (Securities and Exchange Commission)) 
 
 
-
 Another whalepool recording scheming manipulation of crypto-currencies. A trader admitted personally to me: "it is not "illegal" to front run and pump and dump as these are not "securities" and thus not subject to securities laws". What a sleazy chutzpah!
 -- [5 May 2018](https://twitter.com/Nouriel/status/993015916781686784)
+
+
+> Facts Please writes:
+>
+> [BitMEX insiders caught in a web of lies](https://medium.com/@mattcollburner/bitmex-insiders-caught-in-a-web-of-lies-6d9b90baa693) -
+> After months of rumours about misconduct behind the scenes, BitMEX founders have finally admitted (well, not quite)
+> to giving unfair trading advantages to insiders, a practice they had previously denied...
+
+As this paper shows wash trading, spoofing, front-running, price manipulating are standard operating practices in crypto-land and in crypto-exchanges. When will regulators wake up and start cracking down on these criminal activities?
+-- [21 Mai 2018](https://twitter.com/Nouriel/status/998681872812081152)
+
 
 
 
@@ -259,6 +269,27 @@ Entire monster-big data centers repeating 100 000 times stupid games just to val
 What a waste of energy.
 -- [17 May 2018](https://twitter.com/Nouriel/status/997126267672539138)
 
+
+> Facts Please writes:
+>
+> "A single bitcoin transaction is so energy intensive that it could power the average U.S. household for a month."
+> (If there weren't so many smart people saying bitcoin is brilliant, it would sound like the dumbest thing ever)
+>
+> Austrian Maximalist (I) writes:
+>
+> And the daily drive of any of your cars equals the energy consumption of one hundred Peruvian in a month :-).
+>
+>
+> Austrian Maximalist (II) writes:
+>
+> I wonder what these reports will look like once lightning network is at full steam though.
+>
+> Facts Please comments:
+>
+> Maybe the "smart people" aren't that smart, just greedy.
+
+
+---
 
 > Facts Please writes:
 >
