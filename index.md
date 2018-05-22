@@ -47,7 +47,7 @@ that web site was created by the SEC to show investors the obvious signs of such
 > price of everything we pay for. Instead, cryptocurrencies will stop inflation by being based only on a finite
 > supply. There will be no costs to you and hidden profits to banks and governments. 
 >
-> (Source: [Howey Coins](https://www.howeycoins.com) Initial Coin Offering (ICO) Whitepaper Investor Red Flags Scam Alert Parody by U.S. SEC (Securities and Exchange Commission)) 
+> (Source: [Howey Coins](https://www.howeycoins.com) Initial Coin Offering (ICO) Whitepaper, Investor Red Flags Scam Alert Parody by U.S. SEC (Securities and Exchange Commission)) 
 
 
 
