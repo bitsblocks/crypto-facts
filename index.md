@@ -438,7 +438,7 @@ While they are junky dwarfs.
 > 2. Funds are so Q4 2017
 > 3. Rolling-your-own-exchange is the new black
 > 4. SAFTs (Simple Agreement for Future Tokens) are still a thing even though they (probably) won't fly in the US
-> 5. No one really talks about actual DAU (Daily Active Users) / MAU (Monthly Active Users (MAU)) numbers
+> 5. No one really talks about actual DAU (Daily Active Users) / MAU (Monthly Active Users) numbers
 > 6. All of the recent "gender balanced" stories should be deleted, still 90% dudes
 > 7. No one seems to give a fuck about disgorgement†: publicly soliciting (likely) unregistered securities was permitted and carried out by pamphleteers and hired singers
 > 8. Avoid talking about future cash flows to by-pass securities regulation and also to avoid having to have a valid business model
