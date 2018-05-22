@@ -430,6 +430,32 @@ It is like the delusional La La Land where everyone is above average.
 While they are junky dwarfs.
 -- [16 May 2018](https://twitter.com/Nouriel/status/996863892595838976)
 
+> Facts Please writes:
+>
+> Fifteen takeaways from #Consensus2018
+>
+> 1. Shilling continues to be top use-case
+> 2. Funds are so Q4 2017
+> 3. Rolling-your-own-exchange is the new black
+> 4. SAFTs (Simple Agreement for Future Tokens) are still a thing even though they (probably) won't fly in the US
+> 5. No one really talks about actual DAU (Daily Active Users) / MAU (Monthly Active Users (MAU)) numbers
+> 6. All of the recent "gender balanced" stories should be deleted, still 90% dudes
+> 7. No one seems to give a fuck about disgorgement†: publicly soliciting (likely) unregistered securities was permitted and carried out by pamphleteers and hired singers
+> 8. Avoid talking about future cash flows to by-pass securities regulation and also to avoid having to have a valid business model
+> 9. "BankersAgainstBitcoin" was fake... self-loathing from bitcoiners who are angry that the other people they pledged to hate came in and took their jobs
+> 10. Pre-conviction-as-a-service via turnkey ICO service providers
+> 11. Panelists still can't agree on definition of what a blockchain is, now trying to redefine a "security" and a "commodity"
+> 12. Price is the "least interesting" but most discussed topic as always
+> 13. Formula for enterprise consultancies: part performance art, part innovation theater and heavy doses of expectation mismanagement
+> 14. Memorize and fill in: "we're changing the blank blank of blank, raising $25 million, ridiculously undervalued and have no more allocation"
+> 15. Translate whitepaper into Mandarin -> rent lambos -> organize branded afterparty -> hire rapper for said party -> spam "special" invitations on telegram channel(s) -> mad gains on Binance
+>
+> †: Disgorgement is repayment of ill-gotten gains that is imposed on wrongdoers by the courts. Funds that were received through illegal or unethical business transactions are disgorged, or paid back, with interest to those affected by the action. Disgorgement is a remedial civil action, rather than a punitive civil action.
+
+
+
+
+
 
 It is rather a dislike of charlatans, con artists, scammers, trade manipulators,
 carnival barkers, swindlers, crypto-zealots, pluto-populists, i.e. self-serving plutocrats pretending to be populists who care about world poverty and financial inclusion.
