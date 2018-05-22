@@ -213,8 +213,8 @@ developers/dictators are police, prosecutors and judges at the same time. So the
 
 ## Centralized Mining - All Your Free Lottery Money are Belong to Us
 
-The top bitcoin (BTC) miner controls 25% of mining capacity.
-Top 3 miners control 55%. Top 6 control 74%. So bitcoin (BTC) is NOT decentralized. It is HIGHLY centralized.
+The top bitcoin miner controls 25% of mining capacity.
+Top 3 miners control 55%. Top 6 control 74%. So bitcoin is NOT decentralized. It is HIGHLY centralized.
 -- [16 May 2018](https://twitter.com/Nouriel/status/996822516302741504)
 
 > Austrian Maximalist comments:
