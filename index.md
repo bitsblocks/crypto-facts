@@ -58,10 +58,7 @@ Another whalepool recording scheming manipulation of crypto-currencies. A trader
 >
 > [BitMEX insiders caught in a web of lies](https://medium.com/@mattcollburner/bitmex-insiders-caught-in-a-web-of-lies-6d9b90baa693) -
 > After months of rumours about misconduct behind the scenes, BitMEX founders have finally admitted (well, not quite)
-> to giving unfair trading advantages to insiders, a practice they had previously denied.
-> They have also been engaging in unprofitable trading to artificially inflate exchange volumes (aka wash trading), outlined below.
-> To understand how unscrupulous actors try to squeeze every extra buck out of retail customers and fool potential investors
-> in the (unregulated) Wild West of crypto, read on...
+> to giving unfair trading advantages to insiders...
 
 As this paper shows wash trading, spoofing, front-running, price manipulating are standard operating practices in crypto-land and in crypto-exchanges. When will regulators wake up and start cracking down on these criminal activities?
 -- [21 Mai 2018](https://twitter.com/Nouriel/status/998681872812081152)
