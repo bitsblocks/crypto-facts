@@ -21,6 +21,35 @@ that web site was created by the SEC to show investors the obvious signs of such
 -- [16 May 2018](https://twitter.com/Nouriel/status/996843027846107136)
 
 
+> Cryptocurrencies changing the monetary world  
+>
+> When the U.S. Treasury prints a dollar bill, it only costs the government fractions of a penny to actually make a
+> dollar bill or even a US$20 bill. But when the U.S. Treasury then transfers that US$1 bill to the Federal Reserve,
+> who statutorily controls the money supply, it books it at US$1. This is known as seigniorage and the U.S.
+> government gets almost a whole US$1 profit for a piece of paper - the US$1 bill.
+>
+> Now that the US$1 is at the Federal Reserve, it charges a discount rate to banks who want to borrow that US$1
+> to get it out into the greater economy. The banks will then use that US$1 and loan it out to private individuals
+> and companies charging interest at the prime rate or higher depending on the credit worthiness of the
+> borrower. This can range from the current prime rate of 4.5% to the 20%+ charged if you are using a credit
+> card.
+>
+> At every step, the U.S. government, the central banks and the private banks all get a profit off of just getting a
+> US$1 bill into the private economy. When that US$1 bill gets to us, the private individuals and companies, we
+> end up bearing all the cost for the dissemination of that US$1. All other fiat currencies in other countries get
+> disseminated similarly to this example for the U.S. dollar.
+>
+> These costs continually increase as national governments continue printing money leading to inflation. Inflation
+> is a defect of this system and is solely borne by us. 
+>
+> Cryptocurrencies and initial coin offerings are upending this monetary system and democratizing money for
+> you and me. All the costs of fiat money and the associated inflation of prices will no longer underscore the
+> price of everything we pay for. Instead, cryptocurrencies will stop inflation by being based only on a finite
+> supply. There will be no costs to you and hidden profits to banks and governments. 
+>
+> (Source: [Howey Coins](https://www.howeycoins.com) Initial Coin Offering (ICO) Whitepaper Investor Red Flags Scam Alert Parody by U.S. SEC (Securities and Exchange Commission)) 
+
+
 
 Another whalepool recording scheming manipulation of crypto-currencies. A trader admitted personally to me: "it is not "illegal" to front run and pump and dump as these are not "securities" and thus not subject to securities laws". What a sleazy chutzpah!
 -- [5 May 2018](https://twitter.com/Nouriel/status/993015916781686784)
@@ -340,7 +369,7 @@ So called crypto-"currencies" aren't a means of payment (way too costly with thr
 
 
 
-## Crypto (Offline) Security - Cold Paper Storage in Underground Vaults / Bunkers
+## Crypto Security - Cold Paper (Offline) Storage in Underground Vaults / Bunkers
 
 > Austrian Maximalist writes:
 >
